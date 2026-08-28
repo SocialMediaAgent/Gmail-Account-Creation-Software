@@ -16,7 +16,7 @@ Gmail Creator PVACreator Interface
 
 Screenshot of PVACreator Gmail Creator Version 6
 
-Table of Contents
+###Table of Contents
 Overview
 Key Features
 Screenshots
